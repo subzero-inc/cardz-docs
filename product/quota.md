@@ -22,4 +22,4 @@ The following actions consume quota:
 You can purchase Cardz Pro to increase your quota. This gives you 100 quota units per month, for the period of your subscription.
 
 ## How much quota do I have?
-You can check your quota limit and usage by going to the [homepage](https://app.cardz.srg.id.au/). Free users start off with a quota of 100 units.
+You can check your quota limit and usage by going to the [homepage](https://app.cardz.tech/). Free users start off with a quota of 100 units.
