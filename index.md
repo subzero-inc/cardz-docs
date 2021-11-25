@@ -5,16 +5,19 @@ Welcome to Cardz. We hope you're enjoying our product. Please use this support c
 
 ## Documentation index
 
+### [Changelog and What's New](/docs/product/new)
+
 ### Product
-- [Voting](/docs/voting)
-- [Quota](/docs/quota)
+- [Voting](/docs/product/voting)
+- [Quota](/docs/product/quota)
+- [Product updates](/docs/product/updates)
 
 ### Safety and Security
-- [Reporting cards](/docs/reporting)
-- [Security (and password help)](/docs/security)
+- [Reporting cards](/docs/safety/reporting)
+- [Security (and password help)](/docs/safety/security)
 
 ### Legal
-- [Privacy Policy](/docs/privacy-policy)
+- [Privacy Policy](/docs/legal/privacy-policy)
 - [Terms and Conditions](#)
 
 ### Other

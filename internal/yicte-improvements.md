@@ -4,7 +4,7 @@
 This is a log of how we want to improve our product after the review provided by the Young ICT Explorers judges on the 24th of November.
 
 ## Judge review overview
-Only judges that included possible improvements that we could have made are in the below table.
+Only judges that included possible improvements that we could have made are in the below table (i.e, judges with only positive comments are not included).
 
 | Judge | Comments | Our response |
 | -- | -- | --|
