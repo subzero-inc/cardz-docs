@@ -6,16 +6,16 @@ Welcome to Cardz. We hope you're enjoying our product. Please use this support c
 ## Documentation index
 
 ### Product
-- [Voting](voting)
-- [Quota](quota)
+- [Voting](/docs/voting)
+- [Quota](/docs/quota)
 
 ### Safety and Security
-- [Reporting cards](reporting)
-- [Security (and password help)](security)
+- [Reporting cards](/docs/reporting)
+- [Security (and password help)](/docs/security)
 
 ### Legal
-- [Privacy Policy](privacy-policy)
+- [Privacy Policy](/docs/privacy-policy)
 - [Terms and Conditions](#)
 
 ### Other
-- [Technical Architecture](architecture)
+- [Technical Architecture](/docs/architecture)
