@@ -12,11 +12,16 @@ If you have any more questions, don't hesitate to contact us at [support@cardz.t
 
 ## Documentation index
 
+### Mission
+
+- [Flashcards](/docs/product/flashcards)
+
 ### Product
 
 - [Voting](/docs/product/voting)
 - [Quota](/docs/product/quota)
 - [Product updates](/docs/product/updates)
+- [Decks](/docs/product/decks)
 
 ### Safety and Security
 

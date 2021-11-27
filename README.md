@@ -12,3 +12,9 @@ Please feel free to contribute to improve the Cardz experience for all our users
 When you've made the changes you want, open a pull request and we will review it.
 
 The documentation route on the main Cardz application - `https://app.cardz.tech/docs/*` pulls directly from this repository. Any changes to the `main` branch must be approved by Cardz staff before merging.
+
+## Making links and images
+
+Please reference images from root folder. For example, if there's a file in `images/deck.png`, use `![a deck](/images/deck.png)`.
+
+External reference of images is probably not good practice.

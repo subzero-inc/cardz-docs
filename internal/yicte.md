@@ -3,6 +3,9 @@
 
 This is a log of how we want to improve our product after the review provided by the Young ICT Explorers judges on the 24th of November.
 
+## Project tracker and roadmap
+We have a roadmap and task tracker to which we have appended the judges suggestions. It is available [here](https://github.com/orgs/subzero-inc/projects/2/views/1).
+
 ## Judge review overview
 
 Only judges that included possible improvements that we could have made are in the below table (i.e, judges with only positive comments are not included).
