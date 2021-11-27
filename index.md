@@ -8,13 +8,13 @@ If you have any more questions, don't hesitate to contact us at [support@cardz.t
 ## Quick links
 
 - [Changelog and What's New](/docs/product/new)
-- \[External] [Cardz Roadmap](https://github.com/orgs/subzero-inc/projects/2)
+- [External] [Cardz Roadmap](https://github.com/orgs/subzero-inc/projects/2)
 
 ## Documentation index
 
 ### Mission
 
-- [Why flashcards?](/docs/product/flashcards)
+- [Why flashcards?](/docs/mission/flashcards)
 
 ### Product
 
