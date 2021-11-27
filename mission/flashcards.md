@@ -2,6 +2,8 @@
 
 ## What are flashcards?
 
+
+
 Flashcards are essentially small pieces of information split into two - a front and a back. The front will typically have a question or a fill-in-the-blank type exercise, while the back will have the corresponding answer.
 
 ## Why use flashcards?

@@ -14,10 +14,11 @@ If you have any more questions, don't hesitate to contact us at [support@cardz.t
 
 ### Mission
 
-- [Flashcards](/docs/product/flashcards)
+- [Why flashcards?](/docs/product/flashcards)
 
 ### Product
 
+- [Flashcards (in Cardz)](/docs/product/flashcard-overview)
 - [Voting](/docs/product/voting)
 - [Quota](/docs/product/quota)
 - [Product updates](/docs/product/updates)
