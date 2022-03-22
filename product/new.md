@@ -6,6 +6,9 @@ If we ever implement something that requires a big change to how you use Cardz, 
 
 ## Changelog
 
+### March 1st, 2021
+The beta release of the Question Bank is here! The question bank contains thousands of questions generated from hundreds of pages of text, each of which can be converted to a flashcard in a single click. [Try it out](/q) or [see the docs](/docs/product/question-bank).
+
 ### November 25th, 2021
 Today, we're announcing the availability of the [Documentation Center](/docs) in response to feedback that we've recieved about documentation being unavailable.
 

@@ -21,6 +21,8 @@ If you have any more questions, don't hesitate to contact us at [support@cardz.t
 
 - [Flashcards (in Cardz)](/docs/product/flashcard-overview)
 - [Voting](/docs/product/voting)
+- [Question Bank](/docs/product/question-bank)
+- [Bookshelf](/docs/product/bookshelf)
 - [Quota](/docs/product/quota)
 - [Product updates](/docs/product/updates)
 - [Decks](/docs/product/decks)
