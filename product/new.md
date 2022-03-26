@@ -6,7 +6,15 @@ If we ever implement something that requires a big change to how you use Cardz, 
 
 ## Changelog
 
-### March 1st, 2021
+### March 26th, 2022
+#### Major features
+- The PDF viewer now has dark mode! Enable it in your account settings and enjoy a more pleasant reading experience.
+- You can now choose to use a "more streamlined flashcard workflow" in your account settings. Your card will be generated in the background and automatically added to your library, which allows you to keep reading without breaking your concentration with the popup.
+
+#### Minor improvements
+- You can choose to display emojis instead of text in the header bar.
+
+### March 1st, 2022
 The beta release of the Question Bank is here! The question bank contains thousands of questions generated from hundreds of pages of text, each of which can be converted to a flashcard in a single click. [Try it out](/q) or [see the docs](/docs/product/question-bank).
 
 ### November 25th, 2021

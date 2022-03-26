@@ -1,4 +1,4 @@
-# Question Bank (Beta)
+# Question Bank [Beta]
 
 Note: this is currently a beta feature. To give feedback, contact us at [beta-feedback-questionbank@cardz.tech](mailto:beta-feedback-questionbank@cardz.tech).
 
